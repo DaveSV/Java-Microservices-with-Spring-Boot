@@ -4,6 +4,6 @@ Aplicación de microservicios desarrollada en Java creada con Spring Framework q
 
 ![Screenshot_20230720_054256](https://github.com/DaveSV/Java-Microservices-with-Spring-Boot/assets/29576337/6114ee06-6bad-4806-b2c0-3db0065a5fe0)
 
-ver tutorial: https://albertosaenz.com/blog/microservicios-en-java-con-spring-boot-front-end-y-back-end/
+ver tutorial: https://blog.albertosaenz.com/microservicios-en-java-con-spring-boot-front-end-y-back-end
 
 
